@@ -1,0 +1,55 @@
+Lean: está enfocado en hacer evidente lo que agrega valor y reducir lo demas, que se necesita realmente.
+Filosofia de Gestion de Toyota. Reducción de los 7 desperdicios originales.
+Desperidicio = "Muda"
+Desperdicio por sobreprocesamiento = "Muri"
+Desperdicio generado por la diferencia en cargas de trabajo = "Mura"
+Kanban es un método para gestionar el trabajo, equilibra el trabajo, la demanda de trabajo, la capacidad de respuesta.
+"Para de iniciar y comienza a terminar" Tener el trabajo que solo podemos realizar.
+Proporciona un sistema visual de gestión de procesos, ayuda a la toma de decisiones, que, cuanto y cuando producir. Visión Holística, sobre el todo.
+7 Principios Lean:
+-Eliminar desperdicios.
+-Amplificar el aprendizaje.
+-Decidir lo más tarde posible.(No adelantarse a los problemas)
+-Entregar lo más rápido posible.
+-Empoderar al equipo.
+-Embeber la calidad.(Absorber)
+-Ver el todo.
+Agile:
+Adoptar la naturaleza cambiante del proyecto. Metodologías superpuestas.
+J(ust)I(n)T(ime): Reduce los tiempos dentro de los flujos de creación y los tiempos de respuesta de los proveedores y clientes.
+"Kaizen" = Mejora. Actividades que mejoran constantemente las funciones e involucran a todos los empleados. Aplica a procesos.
+Lean Thinking:
+-Valor.
+-Flujos de valor.
+-Flujo.
+-Tomar.
+-Perfección.
+SCRUM: Marco para desarrollar y mantener productos y servicios complejos, roles, eventos, ceremonias, artefactos y las reglas que lo unen.
+Practicas claves de Kanban:
+-Visualizar el flujo de trabajo.(Ver que tanto trabajo tenemos)
+-Limitar el trabajo en progreso (WIP).(Que tanto trabajo se está ejecutando y que tantas tareas se van a realizar en simultaneo)
+-Administrar el flujo.(Tiempo estimado de finalización)
+-Implementar circuitos de retroalimentación.(Pensar que pasó en el proceso)
+-Hacer las políticas del proceso explícitas. (Que pasa cuando alguien sale del equipo)
+-Mejorar en colaboración y evolucionar empíricamente.
+Kanban: Sistema de programacion que permite la entrega JIT. Permiten un mejor uso de los recursos.
+Sistema de control de inventario. Toma los servicios facturados según ser requieran.
+Visibilizar los elementos intangibles para visualizar el progreso. Lo que hay que hacer, lo que se está haciendo, lo que está hecho.
+Kanban simplifica la forma de mostrar en un tablero el avance, que se hace y que no.
+Forma de mejorar la productividad en una organización: controlar el error y alinear la producción.
+TABLERO DE TARJETAS:
+Tomar y empujar, tomo las tarjetas, no las corro.
+Colas y colchones: limita el trabajo en progreso, cuando se presente un cuello de botella con un colchon el flujo se puede controlar mejor.
+Cadencia: conocimiento de que tanto hago.
+Cuellos de botella: Como trabajar los embotellamientos, que dejar de lado, con que seguir
+**SCRUMBAN**: diseñada como forma de pasar de scrum a kanban. Se une el proceso de scrum con kanban. Se pueden complementar.
+-Marco de gestión cuando la herramienta es el scrum pero la parte visual es de kanban
+-Prescribe un marco de trabajo de desarrollo de software (scrum) como núcleo.
+-Se organiza en torno a equipos.
+-Reconoce el valor de las iteraciones encuadradas en el tiempo cuando sea apropiado.
+-Formaliza técnicas de mejora continua dentro de ceremonias especificas.
+Principios:
+-Comience con lo que hace ahora.
+-Acepte seguir un cambio progesivo y evolutivo.
+-Inicialmente, respete los roles, responsabilidades y títulos de trabajo actuales.
+BACKLOG: lista ordenada de todo el trabajo pendiente.

@@ -1,0 +1,130 @@
+SCRUM:
+Marco de trabajo para desarrollar, entregar y mantener productos complejos. Consiste en los equipos y sus roles, eventos, artefactos y reglas asociadas.
+Se basa en la teoría de control de procesos empiricos. Enfoque iterativo e incremental para incrementar la previsibilidad y el control de riesgo.
+3 Pilares: transparecia, insepccion y adaptacion.
+Transparencia: los aspectos significativos del procesos deben ser visibles para aquellos que son responsables del resultado. Requiere que se establezca un estandar comun.
+Inspeccion: debe inspeccionarse frecuentemente los artefactos de scrum y el progreso hacia un objetivo para detectar variaciones indeseadas.
+Adaptacion: si uno o mas aspectos se desvian del limite, se debe realizar un ajuste para evitar la desviacion.
+
+Planificacion del sprint (sprint planning):
+Scrum diario(daily scrum):
+Revision del sprint(sprint review):
+Retrospectiva del sprint(Sprint retrospective): 
+
+Valores de Scrum: compromiso, coraje, foco, apartura y respeto.
+
+Equipo Scrum: Dueño del producto(Product Owner), Equipo de Desarrollo (Development Team), Scrum Master.
+Dueño del producto(Product Owner): responsable de maximizar el valor del producto, unica persona responsable del product backlog.
+Backlog:
+-Expresar claramente los elementos de la lista de productos.
+-Ordenar los elementos de la lista de la mejor manera posible para alcazar los objetivos y misiones de la mejor manera posible.
+-Optimizar el valor del trabaj que el equipo de desarrollo realiza.
+-Asegura que la lista de producto es visible, transparente y clara para todos y que muestra aquello en lo que el equipo trabajará a continuación.
+-Asegurar que el equipo de desarrollo entiende los elementos de la lista del producto del nivel necesario.
+Equipo de desarrollo(Dev Team), Scrum Master.
+Puede hacer el trabajo anterior o delegarlo, sin embargo es el responsable.
+Es una persona, no un grupo. Cualquier elemento que se quiera cambiar debe pasar por el dueño del producto. Se deben respetar sus decisiones.
+Nadie puede forzar al grupo de trabajo a trabajar con otros requisitos.
+Equipo de Desarrollo (Development Team): profesionales que realizan el trabajo de entregar un incremento del producto "terminado"
+El incremento es obligatorio en la Revisión del Sprint. Solo participan el Dev Team en la creacion del incremento.
+Caracteristicas del Dev Team:
+-Son autoorganizados. Nadie indica como convertir elementos de la lista del producto en incrementos.
+-Son multifuncionales, deben contar con las herramientas para desarrollar un incremento.
+-No se reconocen subequipos.
+-Pueden tener distintas habilidades pero la responsabilidad recae en el equipo como un todo.
+Se entregan productos de forma iterativa e incremental. Siempre estará disponible una version potencialmente util y funcional del producto.
+Scrum Master: es el dueño de promover y apoyar Scrum. Lo hacen ayudando a entender la teoría, práctica, reglas y valores.
+-Asegura los objetivos, el alcance y el dominio del producto sean entendidos por todos en el equipo de la mejor manera posible.
+-Encontrar tecnicas para gestionar la lista de producto de manera efectiva
+-Ayudar al equipo a entender la necesidad de contar con elementos de lista de producto claros y concisos.
+-Entender la planificacion del producto en un entorno empírico.
+-Asegurar que el dueño del prodcuto conozca como ordenar la lista de producto para maximizar el valor.
+-Entender practica y agilidad.
+-Facilitar los eventos del Scrum segun se requiera o necesite.
+Servicio del Scrum Master al Dev Team:
+-Guiar al Dev Team en ser autoorganizado y funcional.
+-Ayudar al Dev Team a crear productos de alto valor.
+-Eliminar impedimentos para el progreso del Dev Team.
+-Facilitar los eventos de Scrum según se requiera o necesite
+-Guiar al Dev Team en entornos organizacionales en los que el Scrum aun no haya sido adoptado y entendido por completo.
+Eventos de Scrum:
+Todos los eventos son bloques de tiempo(time-boxes), cada vez que comienza un Sprint tiene una duración fija y no puede acortarse o alargarse.
+Un Sprint es un contenedor de eventos, constituye una oportunidad formal para la inspección y adaptación de algún aspecto.
+Estos eventos se diseñaron para habilitar los pilares de transparencia e inspeccion. La falta de alguno de estos eventos da como resultado
+una reduccion de la transparencia y constituye una oportunidad perdida de inspeccion y adaptacion.
+Sprint: es un bloque de tiempo donde se crea un incremento del producto "terminado" utilizable y potencialmente desplegable.
+Cada nuevo Sprint comienza inmediatamente despues de la finalizacion del anterior.
+Consisten en Planificacion del sprint (sprint planning), Scrum diario(daily scrum),el trabajo de desarrollo, Revision del sprint(sprint review),Retrospectiva del sprint(Sprint retrospective)
+Durante el Srpint:
+-No se realizan cambios que puedan afectar al Objetivo del Sprint(Sprint Goal).
+-Los objetivos de calidad no disminuyen.
+-El alcance puede clarificarse y renegociarse entre el Dueño del Producto y el Dev Team a medida que se va aprendiendo más
+Cancelacion de un Sprint: puede cancelarse antes de que el bloque de tiempo llegue a su fin. Solo el dueño del producto lo puede cancelar.
+Se cancelaria si el Objetivo del Sprint llega a quedar obsoleto.
+Se revisan todos los elementos que se hayan completado y "terminado"
+Planificacion del Sprint:
+Se crea mediante un trabajo colaborativo del Dev Team completo.
+La planificacion del sprint debe responder las siguientes preguntas:
+-¿Que puede entregarse en el incremento resultante del Sprint que comienza?
+-¿Como se conseguirá hacer el trabajo necesario para entregar el incremento?
+Tema Uno: ¿Que puede hacer en este Sprint?
+Se discute el objetivo que el Sprint deberíar lograr y los Elementos de la Lista del Producto que, si se completan en el Sprint, lograrían el Objetivo del Sprint.
+Tema Dos: ¿Como se conseguira completar el trabajo seleccionado?
+Sprint backlog son los elementos de la lista de producto seleccionados para el sprint. El Dev Team se autoorganiza para asumir el trabajo de la Lista de Pendientes,
+tanto durante la planificacion del sprint como a lo largo del sprint. Al finalizar el sprint el Dev Team debería ser capaz de explicar al Dueño del Producto y al Scrum Master
+como pretende trabajar como un equipo autoorganizado para lograr el objetivo del sprint y crear el incremento esperado.
+Objetivo del Sprint(Sprint Goal):
+Meta establecida para el Sprint mediante la implementacion de la lista de producto. Se crea durante la planificacion del Sprint.
+Scrum Diario:
+Reunion de 15 minutos para el Dev Team.
+-¿Que hice ayer que ayudo al Dev Team a lograr el objetivo del Sprint?
+-¿Que haré hoy para ayudar al Dev Team a lograr el objetivo del Sprint?
+-¿Veo algun impedimento que evite que el Dev Team o yo logremos el objetivo del Sprint?
+El Scrum Diario es una reunión clave de inspección y adaptación.
+Revision de Sprint:
+Al final del Sprint se lleva a cabo una inspeccion para inspeccionar el Incremento y adaptar la Lista de Producto si fuese necesario.
+Se determinan las siguientes cosas queq podrían hacerse para optimizar el valor.
+-Los asistentes son el Equipo Scrum y los interesados clave invitados por el Dueño del Producto.
+-El Dueño del Producto explica que elementos de la Lista de Prodcuto se han "Terminado" y cuales no.
+-El Dev Team habla acerca de que estuvo bien durante el Sprint, que problemas aparecieron y como fueron resueltos.
+-El Dev Team hace una demostracion del trabajo que ha "terminado" y responde preguntas acerca del incremento.
+-El dueño del producto habla acerca de la lista de producto en su estado actual. Proyecta objetivos comprobables y fechas de entrega basadas en el progreso obtenido.
+Retrospectiva de Sprint:
+-Inspeccionar como fue el ultimo Sprint en cuanto a personas, relaciones, procesos y herramientas.
+-Identificar y ordenar los elementos mas importantes que salieron bien y las posibles mejores.
+-Crear un plan para implementar las mejoras a la forma en la que el Equipo Scrum desempeña su trabajo.
+Artefactos de Scrum:
+Representan trabajo o valor en diversas formas que son utiles para proporcionar transparencia y oportunidades para la inspeccion y adaptacion.
+Están diseñados especificamentes para maximizar la transparencia de la informacion clave, necesaria para asegurarse que todos tengan el mismo entendimiento del artefacto.
+Lista de Producto(Producto Backlog):
+Fuente de requisitos para cualquier cambio. Nunca está completa, solo refleja los requisitos mejor comprendidos al principio, es dinámica.
+Enumera todas las caracteristicas, funcionalidades, requisitos, mejoras y correciones que sustituyan cambios a realizarse sobre el producto para entregas futuras.
+Si un producto existe, tambien existe su lista de producto.
+A medida que un producto es utilizado y se incrementa su valor y el mercado proporciona retroalimentacion, la Lista del Producto se convierte en una lista mas larga y exhaustiva.
+Los requisitos nunca dejan de cambiar.
+Refinamiento de la Lista de Producto:
+Añade detalle, estimaciones y orden a los elementos de la lista del producto, se examinan y revisan sus elementos.
+Los de orden más alto mas claro y detallado es.
+Seguimiento del Progreso hacia los Objetivos:
+En cualquier momento es posible sumar el trabajo total restante para alcanzar el objetivo.
+Lista de Pendientes del Sprint(Sprint Backlog):
+Conjunto de elementos de la lista de producto seleccionados para el sprint, más un plan para entregar el incremento del producto y conseguir el objetivo del Sprint.
+Es una prediccion hecha por el Dev Team acerca de que funcionalidad formará parte del próximo incremento y del trabajo necesario para entregar esa funcionalidad en un incremento.
+Hace visible todo el trabajo que el Dev Team identifica como necesario para alcanzar el objetivo. 
+Para asegurar el mejoramiento continuo, la lista de pendientes, inlcuye al menos, una mejora de procesos de alta prioridad identificada en la Retrospectiva inmediatamente anterior.
+Incremento:
+Es la suma de todos los elementos de la lista de productos completados durante un Sprint y el valor de los incrementos de todos los Sprints anteriores.
+Al final de un Sprint el nuevo incremento debe estar "terminado" es decir en condiciones de ser utilizado.
+Un incremento es un cuerpo de trabajo inspeccionable y terminado que respalda el empirismo final del Sprint. Es un paso hacia la vision o meta. Debe estar en condiciones de utilizarse.
+Transparencia de los artefactos:
+Scrum se basa en la transparencia. Las decisiones para optimizar el valor y controlar el riesgo se toman basadas en el estado percibido de los artefactos.
+En la medida que la transparencia sea completa estas decisiones tienen unas bases solidas.
+Definicion de Terminado:
+Cada equipo le da una definicion.
+
+
+
+
+
+
+
